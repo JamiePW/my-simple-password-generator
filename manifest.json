@@ -1,0 +1,22 @@
+{
+    "manifest_version": 3,
+
+    "name": "my password generator",
+
+    "description": "一个简单的chrome插件demo，可根据用户输入的自定义字段结合部分随机信息自动生成口令",
+
+    "version": "0.1",
+
+    "action": {
+      "default_popup": "hello.html",
+      "default_icon": "img/icon.png"
+    },
+
+    "icons":{
+		"16": "img/icon.png",
+		"48": "img/icon.png",
+		"128": "img/icon.png"
+	}
+
+
+  }
